@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Monqi Task</string>
+    <string name="action_settings">Monqi Task</string>
+    <string name="intro1_title">STAY CLOSE AND UP TO DATE</string>
+    <string name="forgot_instruction">Please enter your email address and we \nwill send you a reset link.</string>
+    <string name="forgot_instruction_final">Thank you. Instructions on how to reset \nyour password has been send to</string>
+    <string name="terms_account">By clicking next you accept <u>terms and conditions</u>.</string>
+    <string name="setup_code">We are sending confirmation code to \ntelephone number <b>+1 555 555 5555.</b></string>
+    <string name="setup_phone_welcome"><b>WELCOME TO MONQI</b> </string>
+    <string name="setup_phone_no">Enter child\'s phone number </string>
+    <string name="enter_phone">Before getting started, confirm your \n country code &amp; enter your phone number</string>
+    <string name="intro1_sub">Suspendisse lobortis ac mi a feugiat. \n Pellentesque mi sem, dictum id \n elementum quis, fringilla non magna.</string>
+
+
+    <string name="overview">OVERVIEW</string>
+    <string name="messages">MESSAGES</string>
+    <string name="approval">APPROVALS</string>
+    <string name="add_child">ADD CHILD</string>
+    <string name="help">HELP</string>
+    <string name="upgrade">UPGRADE TO PRO</string>
+    <string name="signOut"><u>SIGN OUT</u></string>
+    <string name="settings_title">ACCOUNT &amp; SETTINGS</string>
+
+    <!-- DASHBOARD -->
+    <string name="new_to_monqi">NEW TO MONQI? VIEW GUIDE</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="intro_purple">#B240E2</color>
+    <color name="intro_seablue">#00B8FC</color>
+    <color name="intro_violet">#5856D6</color>
+    <color name="intro_lightgreen">#8BB332</color>
+    <color name="white">#ffffff</color>
+    <color name="monqi_bg">#2CCDAF</color>
+    <color name="monqi_dark">#2AC3A6</color>
+    <color name="ios">#00DAB9</color>
+    <color name="ios_dark">#00c2b6</color>
+    <color name="ios2">#00D8CB</color>
+    <color name="white_alpha">#10000000</color>
+    <color name="grey">#757575</color>
+    <color name="light_grey">#b5b5b5</color>
+
+    <color name="gray_black1">#383637</color>
+    <color name="drawer_black">#343434</color>
+    <color name="light_visible_grey">#ffa6a6a6</color>
+    <color name="fab_color_shadow">#95ffffff</color>
+    <color name="settings_bg">#484848</color>
+    <color name="settings_toolbar_bg">#343434</color>
+
+    <color name="black_overlay">#66000000</color>
+
+
+</resources>
